@@ -1,13 +1,13 @@
 # FreePhish
 Social Engineer Tool / Fake Pages Maker / .... etc 
-#Installation
-- Termux :
+# Installation
+* Termux :
 $ git clone https://Github.com/MiD370/FreePhish
 $ cd FreePhish
 $ chmod +x setup-termux.sh
 $ ./setup-termux.sh
 $ python main.py
-- Linux-Desktop :
+* Linux-Desktop :
 $ git clone https://Github.com/MiD370/FreePhish
 $ cd FreePhish
 $ chmod +x setup.sh
