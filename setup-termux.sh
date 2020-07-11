@@ -17,8 +17,8 @@ figlet -e big "     SETUP"
 pkg install apache2
 pkg install php
 pkg install python
-pkg install python-pip
 pip install colorama
+pip install bs4
 pip install requests
 pip install shutil
 chmod +x main.py
@@ -27,3 +27,4 @@ sleep 2
 figlet -f big "YAF"
 sleep 1 
 clear;
+python main.py
