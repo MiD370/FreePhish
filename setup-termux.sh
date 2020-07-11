@@ -11,7 +11,7 @@ echo "
 "
 sleep 2
 clear
-figlet -e big "     SETUP"
+figlet -f big "     SETUP"
 #install 
 
 pkg install apache2
